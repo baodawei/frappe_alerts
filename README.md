@@ -64,7 +64,7 @@ cd ~/frappe-bench
 *(Required only once)*
 
 ```
-bench get-app https://github.com/kid1194/frappe_alerts
+bench get-app https://github.com/baodawei/frappe_alerts
 ```
 
 3. Build plugin
